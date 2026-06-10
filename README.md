@@ -49,6 +49,16 @@ Used to classify regions into High Crime and Low Crime categories.
 
 - Multiple Linear Regression R² Score: 0.54
 - Logistic Regression Accuracy: 88%
+## Project Visualizations
+
+### Correlation Heatmap
+![Heatmap](correlation_heatmap.png)
+
+### Crime Rate by State
+![Crime Rate](crime_rate_by_state.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ## Key Insights
 
